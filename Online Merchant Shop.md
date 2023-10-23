@@ -21,6 +21,7 @@ ORDER BY
 LIMIT 5;
 ```
 ##### Result:
+![qns 1](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/20037e06-631c-42b1-9972-3fec5107e9cf)
 
 
 
@@ -50,6 +51,10 @@ LIMIT 5;
 ##### Result:
 
 
+![qns 2](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/6d6125d5-432a-499a-8021-1cc5698b8a62)
+
+
+
 
 ### Question:3
 
@@ -72,6 +77,7 @@ GROUP BY
 LIMIT 5;
 ```
 ##### Result:
+![qns 3](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/f57b6823-d546-437e-a6f3-c4dc9cc40185)
 
 
 
@@ -105,6 +111,8 @@ LIMIT 5;
 
 ```
 ##### Result:
+![qns 4](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/eebeea68-f3a7-4c0e-8eea-4667a928a949)
+
 
 
 
@@ -136,6 +144,7 @@ LIMIT 5;
 ##### Result:
 
 
+![qns 5](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/b86fe0ec-b43c-49a5-8873-2fa204e7bd69)
 
 ### Question:6
 
@@ -163,6 +172,9 @@ LIMIT 1;
 
 ##### Result:
 
+![qns 6](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/10954e64-5197-4219-b488-07b84cb9fe24)
+
+
 
 
 ### Question:7
@@ -185,6 +197,8 @@ ORDER BY
 
 ```
 ##### Result:
+
+![qns 7](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/d806316a-63ff-493e-8b98-8892c25e2128)
 
 
 
@@ -209,6 +223,7 @@ LIMIT 5;
 
 ##### Result:
 
+![qns 8](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/525e82f2-2fd9-4885-9b30-381e90291cdd)
 
 
 ### Question:9
@@ -226,7 +241,7 @@ FROM
 
 ##### Result:
 
-
+![qns 9](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/328a965a-75b9-47a1-a9bd-e2644b5ea7fd)
 
 ### Question:10
 
@@ -244,6 +259,7 @@ FROM
 
 ##### Result:
 
+![qns 10](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/8779016b-8777-4621-9fb9-9286d65ad812)
 
 
 
@@ -258,6 +274,8 @@ SELECT ROUND(AVG(cart_item_id),2) AS average_items_in_cart
 FROM online_merchant_shop.cartitems;
 ```
 ##### Result:
+
+![qns 11](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/6314ed70-de70-43e2-a6ef-3b13e49fe254)
 
 
 ### Question:12
@@ -279,6 +297,8 @@ WHERE o.order_id IS NULl;
 
 ##### Result:
 
+![qns 12](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/d74da6de-a3dd-4269-bec8-2f2cfc6a53eb)
+
 
 
 ### Question: 13
@@ -299,7 +319,7 @@ LEFT JOIN
 
 ##### Result:
 
-
+![qns 13](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/5df1b2f4-6ff9-4c09-92d1-6bccb7326697)
 
 ### Question:14
 
@@ -322,6 +342,7 @@ LIMIT 1;
 ##### Results:
 
 
+![qns 14](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/d4a65715-de8b-46a5-ae8a-07b948237532)
 
 
 
@@ -339,6 +360,8 @@ WHERE
 	payment_status = 'pending' IS NOT NULL;
 
 ##### Result
+
+![qns 15](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/89ba9bbc-a60f-4acb-84ca-edd5919a94b1)
 
 
 #### Question:16
@@ -360,6 +383,7 @@ WHERE NOT EXISTS (
 
 ##### Result:
 
+![qns 16](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/80b466b3-de74-4ec9-baac-3a22ee9e0543)
 
 
 
@@ -381,6 +405,8 @@ LIMIT 5;
 ```
 
 ##### Result:
+
+![qns 17](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/1496a010-04d9-4bbe-8dfe-0f47600bf928)
 
 
 
@@ -410,6 +436,7 @@ LIMIT 5;
 
 ##### Result:
 
+![qns 18](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/562528f9-8c0c-4176-8498-da8205684b0d)
 
 
 
@@ -450,6 +477,8 @@ LIMIT 5;
 
 ##### Result:
 
+![qns 19](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/2e47cc48-82a9-43ac-a451-4721fe349876)
+
 
 
 ### Question:20
@@ -487,7 +516,8 @@ LIMIT 5;
 
  ##### Result:
 
- 
+ ![qns 20](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/5d8aed18-75d7-4b5e-8aac-31223e4915e9)
+
 
 
  ### Question:21
@@ -513,6 +543,7 @@ HAVING
 
  ##### Result:
 
+![qns 21](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/5115335a-fad4-4a66-aaa6-0255d69e9773)
 
 
 
@@ -556,3 +587,4 @@ LIMIT 1;
  ##### Result:
 
 
+![qns 22](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/0367dbaa-0e56-4519-ae99-e9127f0fd2f7)

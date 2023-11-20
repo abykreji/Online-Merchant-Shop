@@ -21,7 +21,8 @@ ORDER BY
 LIMIT 5;
 ```
 ##### Result:
-![qns_1](https://drive.google.com/drive/u/0/folders/17mjOlsipnpSc7yqhA6uJyTMT7yy6JpxQ)
+<img src="https://drive.google.com/file/d/1dAqYV5Uj0r9UIjtXXUNhkLhJUsVaIL7z/view?usp=sharing">
+
 
 ### Question:2
 

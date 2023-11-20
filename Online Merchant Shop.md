@@ -21,7 +21,7 @@ ORDER BY
 LIMIT 5;
 ```
 ##### Result:
-<img src="https://drive.google.com/file/d/1dAqYV5Uj0r9UIjtXXUNhkLhJUsVaIL7z/view?usp=sharing">
+<img src="https://github.com/abykreji/Online-Merchant-Shop/blob/main/Images/qns_1.png">
 
 
 ### Question:2

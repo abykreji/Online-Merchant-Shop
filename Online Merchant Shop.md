@@ -21,15 +21,13 @@ ORDER BY
 LIMIT 5;
 ```
 ##### Result:
-![qns_1](https://drive.google.com/file/d/1dAqYV5Uj0r9UIjtXXUNhkLhJUsVaIL7z/view?usp=sharing)
-
+![qns_1](https://drive.google.com/drive/u/0/folders/17mjOlsipnpSc7yqhA6uJyTMT7yy6JpxQ)
 
 ### Question:2
 
 ####  What is the average number of orders placed by users within 30 days of registration?
 
 #### Solution:
-
 
 ```python
 Select

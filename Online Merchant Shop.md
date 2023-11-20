@@ -21,8 +21,7 @@ ORDER BY
 LIMIT 5;
 ```
 ##### Result:
-![qns 1](https://github.com/abykreji/Online-Merchant-Shop/assets/139122159/20037e06-631c-42b1-9972-3fec5107e9cf)
-
+![qns_1](https://github.com/abykreji/Online-Merchant-Shop/blob/main/Images/qns_1.png)
 
 
 ### Question:2

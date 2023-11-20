@@ -21,7 +21,7 @@ ORDER BY
 LIMIT 5;
 ```
 ##### Result:
-<img src="https://github.com/abykreji/Online-Merchant-Shop/blob/main/Images/qns_1.png">
+<img src="https://github.com/abykreji/Online-Merchant-Shop/Images/qns_1.png">
 
 
 ### Question:2
